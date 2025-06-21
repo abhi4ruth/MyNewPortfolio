@@ -40,7 +40,9 @@ body {
 
 }
 img{
-    height: 350px;
+    height: 350px 
+    width: 300px;
+    
 }
 section {
     height: 100vh;
